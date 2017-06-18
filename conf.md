@@ -10,6 +10,7 @@
 | SP        |[ICASSP 2018](https://2018.ieeeicassp.org/ImportantDates.asp)                          | Seoul                       | Oct 27 2017 | Jan 26 2018      | Apr 22-27 2018   |
 | BIO       |[RECOMB 2018](http://cb.csail.mit.edu/cb/recomb2017/)                                  | TBD                         | Oct 28 2017 | Dec 16 2018      | May 3-7 2018     |
 | ML       |[ICML 2018](http://cb.csail.mit.edu/cb/recomb2017/)                                     | TBD                         | Feb 5 2018 | May 12 2018      | Aug 7-9 2018     |
+| CC       |[ACC 2018](http://cb.csail.mit.edu/cb/recomb2017/)                                     | TBD                         | Sep 17 2017 | Jan 22 2018      | Jun 27-29 2018     |
 
 
 ## Other lists
